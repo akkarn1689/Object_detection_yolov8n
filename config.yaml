@@ -1,0 +1,8 @@
+path: C:\Users\Ashish Karn\Desktop\Academic Internship\Project3\datasets
+train: train/images
+test: test/images
+val: valid/images
+
+
+# classes
+names: ['car', 'person']
